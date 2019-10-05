@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Tuto</string>
+    <string name="button_label_non">non</string>
+    <string name="button_label_oui">oui</string>
+    <string name="button_label_0">0</string>
+    <string name="message">SALUT</string>
 </resources>
